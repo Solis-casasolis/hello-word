@@ -1,0 +1,10 @@
+practicando con Git
+
+Atajos para Netbeans:
+if. + TAB : Genera los bloques if.
+sout. + TAB : Genera los System.out.println
+fori + TAB : Genera el codigo necesario para hacer un for.
+sw + TAB : Genera el switch.
+whilexp/whilen/whileit + TAB : Genera los bloques while.
+dowhile + TAB : Genera los bloques dowhile.
+PSVM + TAB : Genera la función main.
